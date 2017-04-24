@@ -18,8 +18,8 @@
     </message>
     <message>
         <location filename="../src/modules/partition/gui/AlongsidePage.cpp" line="198"/>
-        <source>An EFI system partition cannot be found anywhere on this system. Please go back and use manual partitioning to set up %1.</source>
-        <translation>An EFI system partition cannot be found anywhere on this system. Please go back and use manual partitioning to set up %1.</translation>
+        <source>An EFI system partition cannot be found anywhere on this system. Please go back and use manual partitioning to set up %1. WARNING: Your system probably currently uses BIOS to boot, and any such operating system will no longer be able to boot if you accept this suggestion!</source>
+        <translation>An EFI system partition cannot be found anywhere on this system. Please go back and use manual partitioning to set up %1. WARNING: Your system probably currently uses BIOS to boot, and any such operating system will no longer be able to boot if you accept this suggestion!</translation>
     </message>
     <message>
         <location filename="../src/modules/partition/gui/AlongsidePage.cpp" line="208"/>
