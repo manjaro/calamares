@@ -1334,7 +1334,7 @@ L&apos;installateur se fermera et les changements seront perdus.</translation>
     <message>
         <location filename="../src/modules/keyboard/KeyboardPage.ui" line="131"/>
         <source>Type here to test your keyboard</source>
-        <translation>Saisir ici pour tester votre clavier</translation>
+        <translation>Saisissez du texte ici pour tester votre clavier</translation>
     </message>
 </context>
 <context>
